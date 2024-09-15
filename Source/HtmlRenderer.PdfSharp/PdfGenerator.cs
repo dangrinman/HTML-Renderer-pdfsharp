@@ -160,11 +160,15 @@ namespace TheArtOfDev.HtmlRenderer.PdfSharp
                     container.MarginRight = config.MarginRight;
                     container.MarginTop = config.MarginTop;
 
+                    PdfDocument pdfDocument = new PdfDocument();
+                    PdfPage page = pdfDocument.AddPage();
+                    page.Height = pageSize.Height;
+                    page.Width = pageSize.Width;
+                    var measure = XGraphics.FromPdfPage(page, XGraphicsPdfPageOptions.Append, XGraphicsUnit.Point, XPageDirection.Downwards);
+
                     // layout the HTML with the page width restriction to know how many pages are required
-                    using (var measure = XGraphics.CreateMeasureContext(pageSize, XGraphicsUnit.Point, XPageDirection.Downwards))
-                    {
-                        container.PerformLayout(measure);
-                    }
+                    
+                    container.PerformLayout(measure);
 
                     // while there is un-rendered HTML, create another PDF page and render with proper offset for the next page
                     double scrollOffset = 0;
