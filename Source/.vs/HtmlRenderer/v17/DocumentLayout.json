@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA249F5D-9285-40A6-B217-5889EF79FD7E}|HtmlRenderer.PdfSharp\\HtmlRenderer.PdfSharp.csproj|d:\\dev\\html-renderer\\html-renderer-pdfsharp\\source\\htmlrenderer.pdfsharp\\htmlcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA249F5D-9285-40A6-B217-5889EF79FD7E}|HtmlRenderer.PdfSharp\\HtmlRenderer.PdfSharp.csproj|solutionrelative:htmlrenderer.pdfsharp\\htmlcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA249F5D-9285-40A6-B217-5889EF79FD7E}|HtmlRenderer.PdfSharp\\HtmlRenderer.PdfSharp.csproj|d:\\dev\\html-renderer\\html-renderer-pdfsharp\\source\\htmlrenderer.pdfsharp\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA249F5D-9285-40A6-B217-5889EF79FD7E}|HtmlRenderer.PdfSharp\\HtmlRenderer.PdfSharp.csproj|solutionrelative:htmlrenderer.pdfsharp\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA249F5D-9285-40A6-B217-5889EF79FD7E}|HtmlRenderer.PdfSharp\\HtmlRenderer.PdfSharp.csproj|D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\htmlrenderer.pdfsharp\\pdfgenerateconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA249F5D-9285-40A6-B217-5889EF79FD7E}|HtmlRenderer.PdfSharp\\HtmlRenderer.PdfSharp.csproj|solutionrelative:htmlrenderer.pdfsharp\\pdfgenerateconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA249F5D-9285-40A6-B217-5889EF79FD7E}|HtmlRenderer.PdfSharp\\HtmlRenderer.PdfSharp.csproj|D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\htmlrenderer.pdfsharp\\adapters\\pdfsharpadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA249F5D-9285-40A6-B217-5889EF79FD7E}|HtmlRenderer.PdfSharp\\HtmlRenderer.PdfSharp.csproj|solutionrelative:htmlrenderer.pdfsharp\\adapters\\pdfsharpadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfGenerator.cs",
+              "DocumentMoniker": "D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\HtmlRenderer.PdfSharp\\PdfGenerator.cs",
+              "RelativeDocumentMoniker": "HtmlRenderer.PdfSharp\\PdfGenerator.cs",
+              "ToolTip": "D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\HtmlRenderer.PdfSharp\\PdfGenerator.cs",
+              "RelativeToolTip": "HtmlRenderer.PdfSharp\\PdfGenerator.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAgwKUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T07:09:20.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtmlContainer.cs",
+              "DocumentMoniker": "D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\HtmlRenderer.PdfSharp\\HtmlContainer.cs",
+              "RelativeDocumentMoniker": "HtmlRenderer.PdfSharp\\HtmlContainer.cs",
+              "ToolTip": "D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\HtmlRenderer.PdfSharp\\HtmlContainer.cs",
+              "RelativeToolTip": "HtmlRenderer.PdfSharp\\HtmlContainer.cs",
+              "ViewState": "AQIAADcBAAAAAAAAAAAAAEwBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:15:00.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PdfSharpAdapter.cs",
+              "DocumentMoniker": "D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\HtmlRenderer.PdfSharp\\Adapters\\PdfSharpAdapter.cs",
+              "RelativeDocumentMoniker": "HtmlRenderer.PdfSharp\\Adapters\\PdfSharpAdapter.cs",
+              "ToolTip": "D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\HtmlRenderer.PdfSharp\\Adapters\\PdfSharpAdapter.cs",
+              "RelativeToolTip": "HtmlRenderer.PdfSharp\\Adapters\\PdfSharpAdapter.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwHoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:03:09.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfGenerateConfig.cs",
+              "DocumentMoniker": "D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\HtmlRenderer.PdfSharp\\PdfGenerateConfig.cs",
+              "RelativeDocumentMoniker": "HtmlRenderer.PdfSharp\\PdfGenerateConfig.cs",
+              "ToolTip": "D:\\Dev\\html-renderer\\HTML-Renderer-pdfsharp\\Source\\HtmlRenderer.PdfSharp\\PdfGenerateConfig.cs",
+              "RelativeToolTip": "HtmlRenderer.PdfSharp\\PdfGenerateConfig.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:54:01.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
